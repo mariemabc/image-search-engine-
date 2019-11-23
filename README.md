@@ -2,4 +2,4 @@
 elasticsearch/flask 
 
 
-![Screenshot](Capture2.PNG)
+![Screenshot](output.PNG)
